@@ -1,0 +1,9 @@
+.container{
+    width: 960px;
+    height: 960px;
+    background: linear-gradient(#80d2f8,#daacf8);
+}
+
+.box {
+    background-color: rgba(233, 231, 190, 0.945);
+}
